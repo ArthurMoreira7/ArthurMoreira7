@@ -20,7 +20,7 @@ Atualmente, estou a migrar do conhecimento académico para aplicações do mundo
 <br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=SArthurMoreira7&show_icons=true&theme=shades-of-purple&hide_border=true&include_all_commits=true" alt="Stats Graph" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ArthurMoreira7&show_icons=true&theme=shades-of-purple&hide_border=true&include_all_commits=true" alt="Stats Graph" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMoreira7&layout=compact&theme=shades-of-purple&hide_border=true" alt="Top Languages" />
   </a>
 </p>
