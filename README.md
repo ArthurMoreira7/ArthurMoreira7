@@ -33,17 +33,6 @@ Atualmente, concentro meus estudos em **Java**, enquanto desenvolvo projetos pr�
 
 ---
 
-## 📂 Projetos em destaque
-
-- 🎬 Catálogo de Filmes (HTML, CSS, Bootstrap e JavaScript)
-- ⚽ Sistema de Campeonato de Futebol em Java
-- 🐾 Relatório de Clínica Veterinária em C#
-- 📚 Repositório de estudos e exercícios de Java
-
-> Sempre busco transformar teoria em projetos práticos para evoluir continuamente como desenvolvedor.
-
----
-
 ## 📈 Objetivos
 
 - Evoluir como desenvolvedor **Back-end Java**
