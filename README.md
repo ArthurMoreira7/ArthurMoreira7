@@ -25,8 +25,6 @@ Atualmente, concentro meus estudos em **Java**, enquanto desenvolvo projetos pr�
 ## 📚 Atualmente estudando
 
 - ☕ Java (principal linguagem)
-- 🧠 Estruturas de Dados e Algoritmos
-- 🏗️ Programação Orientada a Objetos
 - 🔗 Git e GitHub
 - 🗄️ Banco de Dados SQL/MySQL
 - 🤖 Inteligência Artificial aplicada ao desenvolvimento
@@ -46,8 +44,6 @@ Atualmente, concentro meus estudos em **Java**, enquanto desenvolvo projetos pr�
 
 - Linkedin: www.linkedin.com/in/arthur-moreirasilva/
 - E-mail: arthurmoreira301@gmaill.com
-- Portfólio: [preencher]
-
 ---
 
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução.
