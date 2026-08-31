@@ -42,7 +42,7 @@ Atualmente, concentro meus estudos em **Java**, enquanto desenvolvo projetos prÃ
 
 ## ğŸ“« Contato
 
-- Linkedin: www.linkedin.com/in/arthur-moreirasilva/
+- Linkedin: www.linkedin.com/in/arthur-moreira7/
 - E-mail: arthurmoreira301@gmaill.com
 ---
 
