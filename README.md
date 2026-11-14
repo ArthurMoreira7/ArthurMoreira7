@@ -50,15 +50,6 @@ Ainda estou no começo, e é exatamente por isso que este perfil existe: aqui eu
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArthurMoreira7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMoreira7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   ⭐ Obrigado pela visita! Fique à vontade para explorar meus repositórios e acompanhar minha evolução.
 </p>
